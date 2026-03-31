@@ -11,7 +11,7 @@ I’m **Pragnya ** (`Pragnya reddy`, reg no `24MIp10005`). I wrote a few small s
 - `script3.sh` - Disk and Permission Auditor for a few common folders
 - `script4.sh` - Log file analyzer (counts keyword matches)
 - `script5.sh` - Open Source Manifesto Generator (interactive)
-- `manifesto_Vashista.txt` - Example output from the manifesto generator
+- `manifesto_pragnya.txt` - Example output from the manifesto generator
 
 ## How to run the scripts
 
